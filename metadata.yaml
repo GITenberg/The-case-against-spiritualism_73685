@@ -1,0 +1,36 @@
+_repo: The-case-against-spiritualism_73685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoddart, Jane T.
+    aliases:
+    - Stoddart, Jane Thompson
+    - Lorna
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '53978'
+    url: http://www.gutenberg.org/2009/agents/53978
+    wikipedia: https://en.wikipedia.org/wiki/Jane_T._Stoddart
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73685'
+  lccn: '20004476'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015063517141&view=1up&seq=7&skin=2021
+pgterms:marc905: 20221002142522stoddart
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Terry Jeffress and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bHodder and Stoughton, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- GITenberg
+title: The case against spiritualism
+url: http://www.gutenberg.org/ebooks/73685
